@@ -1,0 +1,8 @@
+flonum-mult.o: ../../gas/flonum-mult.c ../../gas/../include/ansidecl.h \
+  ../../gas/flonum.h ../../gas/bignum.h
+
+../../gas/../include/ansidecl.h:
+
+../../gas/flonum.h:
+
+../../gas/bignum.h:
